@@ -1,4 +1,4 @@
-# Cr4xen — Cybersecurity Researcher  
+# Cybersecurity Analyst
 
 ![Role](https://img.shields.io/badge/Cybersecurity-Researcher-red?style=flat-square)
 ![Threat Intelligence](https://img.shields.io/badge/Threat-Intelligence-orange?style=flat-square)
